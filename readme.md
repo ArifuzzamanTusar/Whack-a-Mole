@@ -1,3 +1,3 @@
 # Whack-a-Mole Game👋
 
-# Whack-a-Mole
+[🎮 Play Whack-a-Mole](https://atusar-whack-a-mole.netlify.app/)
